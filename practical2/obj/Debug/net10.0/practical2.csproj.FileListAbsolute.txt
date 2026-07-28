@@ -1,0 +1,14 @@
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.AssemblyInfoInputs.cache
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.AssemblyInfo.cs
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.csproj.CoreCompileInputs.cache
+/Users/ayushraj/Documents/dotNET/practical2/bin/Debug/net10.0/practical2
+/Users/ayushraj/Documents/dotNET/practical2/bin/Debug/net10.0/practical2.deps.json
+/Users/ayushraj/Documents/dotNET/practical2/bin/Debug/net10.0/practical2.runtimeconfig.json
+/Users/ayushraj/Documents/dotNET/practical2/bin/Debug/net10.0/practical2.dll
+/Users/ayushraj/Documents/dotNET/practical2/bin/Debug/net10.0/practical2.pdb
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.dll
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/refint/practical2.dll
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.pdb
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/practical2.genruntimeconfig.cache
+/Users/ayushraj/Documents/dotNET/practical2/obj/Debug/net10.0/ref/practical2.dll
